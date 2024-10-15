@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "C:/gitRepos/PizzaStore/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/gitRepos/PizzaStore/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "C:/gitRepos/PizzaStore/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "C:\\gitRepos\\PizzaStore\\target\\classes\\META-INF\\VAADIN\\config",
+  "frontendBundleOutput": "C:\\gitRepos\\PizzaStore\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "devBundleOutput": "C:/gitRepos/PizzaStore/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "C:/gitRepos/PizzaStore/target/dev-bundle/config",
+  "jarResourcesFolder": "C:/gitRepos/PizzaStore/./src/main/frontend/generated/jar-resources",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\gitRepos\\PizzaStore\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
