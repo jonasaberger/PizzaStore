@@ -18,7 +18,6 @@ public class Customer {
 	private String phoneNumber;
 	private String creditCard;
 
-
 	private String pizzaType;
 
 
@@ -59,7 +58,6 @@ public class Customer {
 
 	public String getPizzaType() {return this.pizzaType;}
 	public void setPizzaType(String pizzaType) {this.pizzaType = pizzaType;}
-
 
 	public String getPhoneNumber() {return this.phoneNumber;}
 	public void setPhoneNumber(String phoneNumber) {this.phoneNumber = phoneNumber;}
